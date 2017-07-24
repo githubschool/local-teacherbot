@@ -8,10 +8,7 @@ addCollaborators:
 
     If this isn't what you were hoping to get help with, just leave another note in this issue, and a hu-man trainer will drop by within 24 hours to answer your questions!"
   existingCollaboratorMessage: >
-    Hi @${issueOwner}! I'm the friendly :robot: of the GitHub Training Team.
-
-    I can see that you're already a collaborator. Any other issues are above my paygrade at the moment, so we'll have to wait for a pesky hu-man trainer. Not to worry though, they'll drop by within 24 hours to answer your questions!
-
+    Boop!
 # comment out this entire section to disable this feature
 deleteBranchReminder:
   message: >
