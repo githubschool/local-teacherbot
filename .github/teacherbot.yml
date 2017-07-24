@@ -1,0 +1,3 @@
+addCollaborators:
+  newCollaboratorMessage: "Welcome!"
+  existingCollaboratorMessage: "Welcome back!"
