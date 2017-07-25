@@ -1,3 +1,5 @@
 addCollaborators:
-  newCollaboratorMessage: "Welcome!"
-  existingCollaboratorMessage: "Welcome back!"
+  newCollaboratorMessage: "Welcome newbie!"
+  existingCollaboratorMessage: "Welcome back:
+remindMerge:
+  message: 'Don't forget to merge'
