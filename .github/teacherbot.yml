@@ -2,5 +2,5 @@ addCollaborators:
   newCollaboratorMessage: "Welcome newbie!"
   existingCollaboratorMessage: "Welcome back"
 remindMerge:
-  unmeged: "why you no merge?"
-  merged: "Don't forget to merge"
+  unmerged: "why you no merge?"
+  merged: "Thx for merge"
